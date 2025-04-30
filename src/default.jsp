@@ -9,7 +9,7 @@
     <link href="css/bootstrap.css" rel="stylesheet" />
     <link href="css/snakes.css" rel="stylesheet" />
 
-    <title>Does it have snakes?</title>
+    <title>Does it have a fish oye bsdk ?</title>
   </head>
 
   <script>
